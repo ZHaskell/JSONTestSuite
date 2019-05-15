@@ -52,4 +52,6 @@ The script then reads `logs.txt` and generates `results/parsing.html`.
 
 **/results/**
 
-<img src="results/pruned_results.png" alt="JSON Parsing Tests" />
+Some implementations are not installed on my machine, this repo is supposed to test Haskell implementations.
+
+<img src="results/results.png" alt="JSON Parsing Tests" />
